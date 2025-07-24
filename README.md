@@ -128,4 +128,4 @@ MIT
 
 ## Support
 
-For bug reports or feature requests, please create am issue on this Github Page.
+For bug reports or feature requests, please create an issue on this Github Page.
